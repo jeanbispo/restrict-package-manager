@@ -1,0 +1,18 @@
+{
+  "name": "restrict-package-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Diego 'Mozão' Fonseca <devmozao@outlook.com> (https://linktr.ee/devmozao)",
+  "contributors": [
+    {
+      "name": "Jean Bispo",
+      "email": "me@jeanbispo.com",
+      "url": "https://jeanbispo.com"
+    }
+  ],
+  "engines": {
+    "npm": "You must run Yarn in this project.",
+    "yarn": "1.x.x"
+  }
+}
